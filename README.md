@@ -1,2 +1,10 @@
-# engineering-mathematics
-Specialization in Mathematical Engineering from the Universidad Politecnica de Valencia
+# Fundamentos Matemáticos para la Ingeniería
+
+* **Contenido**
+  - Números y terminología
+  
+  - Algebra
+  
+  - Derivadas
+  
+  - Integrales
